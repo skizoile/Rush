@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbb48a8fcc16ff46b999807fa3a71a2, type: 3}
+  m_Name: Convoyor_180
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 19770a765fc04e144a84bb879e188601, type: 3}
+  prefabSelector: {fileID: 1853013913051196, guid: 29715f6a3731c094cad95841b12639b9,
+    type: 2}
+  prefabGame: {fileID: 1585729143984740, guid: ecfdd614088916d4cb4cbae2c0b532f9, type: 2}
+  nbMax: 2
+  nbLeft: 0
+  type: 7

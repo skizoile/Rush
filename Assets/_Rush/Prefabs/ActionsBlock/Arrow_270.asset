@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbb48a8fcc16ff46b999807fa3a71a2, type: 3}
+  m_Name: Arrow_270
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c3480902fe3769446a14be9a1fab61c0, type: 3}
+  icon3D: {fileID: 1830446882937408, guid: a99c21727b7d0464f97b0785b07e90ef, type: 2}
+  prefabSelector: {fileID: 1295153098800156, guid: eeb6ca99f1dbe834fa1324541b40a3b7,
+    type: 2}
+  prefabGame: {fileID: 1474484813411030, guid: 0377364bc1f3d7649aaa23ffa2be0954, type: 2}
+  nbMax: 0
+  nbLeft: 0
+  type: 4
